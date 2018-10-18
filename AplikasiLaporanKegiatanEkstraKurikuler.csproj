@@ -153,6 +153,8 @@
     <None Include="Resources\YPT Banjarmasin.ico" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\search.jpg" />
+    <None Include="Resources\reset.jpg" />
     <Content Include="SQLite.Interop.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

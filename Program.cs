@@ -18,5 +18,7 @@ namespace AplikasiLaporanKegiatanEkstraKurikuler
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Forms.Container());
         }
+
+        public static string ConnString = "Data Source = AplikasiLaporanKegiatanEkstraKurikuler.db";
     }
 }
